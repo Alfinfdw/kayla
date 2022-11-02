@@ -1,6 +1,6 @@
 /* Created By Niluh Bot WhatsApp */
 /* WhatsApp Creator Di Bawah */
-/* wa.me/6287705048235 */
+/* wa.me/6281246711289 */
 
 const { modul } = require('./module');
 const { baileys, boom, chalk, fs, figlet, FileType, path, pino, process, PhoneNumber } = modul;
