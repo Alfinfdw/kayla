@@ -28,7 +28,7 @@ const { version, isLatest } = await fetchLatestBaileysVersion()
 const kayla = kaylaConnect({
 logger: pino({ level: 'silent' }),
 printQRInTerminal: true,
-browser: ['Kayla Bot WhatsApp (2022)','Safari','1.0.0'],
+browser: ['Niluh Bot WhatsApp (2022)','Safari','1.0.0'],
 auth: state,
 version
 })
@@ -117,7 +117,7 @@ participant: `0@s.whatsapp.net`,
 },
 "message": {
 "pollCreationMessage": {
-"name": `Welcome Sister 😊`,
+"name": `Welcome Sayang 😊`,
 "options": [
 	{
 "optionName": "KATANYA WA KEBAL"
@@ -146,7 +146,7 @@ participant: `0@s.whatsapp.net`,
 },
 "message": {
 "pollCreationMessage": {
-"name": `Goodbye Sister 👋`,
+"name": `Goodbye Sayang 👋`,
 "options": [
 	{
 "optionName": "KATANYA WA KEBAL"
